@@ -18,7 +18,6 @@ The script recursively compresses the source directory into a **timestamped ZIP 
 ## 📦 Project Structure
 
 ```
-
 Cloud-Sync-Backup
 │
 ├── backup.sh
